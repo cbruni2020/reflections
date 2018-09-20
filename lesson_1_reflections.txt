@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It narrowed down the lines in which there could be errors. It minimized the amount of
+    searching I had to do.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Having easy access would allow you to go back into different programs you have
+made and use the code from there instead of typing it all out again. it would also
+allow a programmer to fix major mistakes by starting over to the un-altered code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  In Git if you forget to save you can run into some issues, but your history of commits
+  will be a lot more organized and manageable. On Google Docs, your document will autosave
+  extremely frequently so the history of changes will be a lot harder to navigate, but
+  you have the bonus of not losing your work if you forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  Google Docs is mostly based on every document being independent from the next,
+  but Git most likely understands different files could be related to the same
+  project and a change to one could be a change to all that need to be saved.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  It allows the programmer to go back and find what changes were made from one commit
+  to the next.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  Version control will allow you to have files of past versions of your program
+  without those major errors. It will be able to revert back to the original format
+  without mistakes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I want to use git to effectively modify any code i write. Git will allow me
+  to try making my code as brilliant as possible even if I make huge mistakes
+  along the way.
