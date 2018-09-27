@@ -1,1 +1,42 @@
-When would you want to create a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+  You would want to use a remote repository when working with a partner because a place like github easily lays out all 
+  the information both sides of the team have been working on. This would be difficult just using local because you 
+  would constantly have to be switching branches to know what changes are being made. 
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+You might want to pull changes manually because you can choose the size of the pull and teh amount of information
+in a certain pull. Staying up to date might cause confusioin if you wrok on code but don't finish and then come back to 
+see something doesn't work in your code due to a pull that was made when code was not finished. 
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+Clones are an exact copy of a repository from a remote repository like github to a local area or a local to a local,
+but forks are copies of a repository from one remote repository to another. Branches are completely differetn since they are just 
+different aspects of a porject a programmer is working on until they merge them onto the master branch.  
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Having a copy of the last known state is extremely helplful because it allows you to understand where conflicts are 
+going too occur and brainstorm how to fix them. This also will allow you to revert back to the last knwon state if you 
+make a mistake while trying to ad something and want to start over. 
+    
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+You could collaborate withou tgit or github by being in a constant line via text, bu this will be very difficult considering 
+people have different schedules and won't be able to talk all the time. Git hub makes it easy to collaborate since all the 
+information is neatly layed out in fron of you.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+You would want to make changes in a seperate branch and not master when you are working with a partner because it allows you to have
+your own code that will not effect the code of anyone you are working with. Working in master condenses everything in one are, but having 
+branches and pushing allows your wrok to be checked over by people you are working with without making mistakes that ruin the entire 
+project. 
